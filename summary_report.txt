@@ -1,0 +1,42 @@
+Spotify Playlist Data Pipeline Report
+
+Playlist Name: Bollywood & Global Mix
+
+Top 5 Tracks:
+         track_name      artist_name  popularity
+2   Blinding Lights       The Weeknd          98
+3      Shape of You       Ed Sheeran          97
+1         Tum Hi Ho     Arijit Singh          95
+7          Believer  Imagine Dragons          94
+15        Sunflower      Post Malone          94
+
+Average Duration (minutes): 3.71
+
+Tracks per Artist:
+artist_name
+Arijit Singh        7
+Ed Sheeran          7
+Coldplay            5
+Post Malone         3
+Justin Bieber       3
+Lil Nas X           3
+OneRepublic         3
+Billie Eilish       2
+The Weeknd          1
+Dua Lipa            1
+The Kid LAROI       1
+Imagine Dragons     1
+Shawn Mendes        1
+Tones and I         1
+Marshmello          1
+Alan Walker         1
+The Chainsmokers    1
+Glass Animals       1
+Charlie Puth        1
+Wiz Khalifa         1
+Passenger           1
+Vance Joy           1
+The Lumineers       1
+Hozier              1
+Lewis Capaldi       1
+Name: count, dtype: int64
